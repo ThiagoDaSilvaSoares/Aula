@@ -9,6 +9,7 @@ public class aula1 {
             nome = "Kaique"; 
             System.out.println("Nome kkkk" + nome);
             contador++;
+            System.out.println("Coloquei aqui");
         }
     }
 }
